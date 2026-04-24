@@ -1,7 +1,6 @@
 # 🌍 Language Detection using Machine Learning
 
-A machine learning project that detects the language of a given text using **TF-IDF vectorization** and classification models like Random Forest / Logistic Regression / SVM.
-
+A machine learning project that detects the language of a given text using **TF-IDF vectorization** and classification model Random Forest 
 ---
 
 ## 🚀 Project Overview
